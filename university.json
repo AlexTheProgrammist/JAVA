@@ -1,0 +1,50 @@
+{
+  "name": "Global Tech Institute",
+  "head": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "middleName": "Andrew",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "Computer Engineering",
+      "head": {
+        "firstName": "Emma",
+        "lastName": "Brown",
+        "middleName": "Liam",
+        "sex": "FEMALE"
+      },
+      "departments": [
+        {
+          "name": "AI Research",
+          "head": {
+            "firstName": "Michael",
+            "lastName": "Davis",
+            "middleName": "Sophia",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "AI-101",
+              "head": {
+                "firstName": "Lucas",
+                "lastName": "Garcia",
+                "middleName": "Mason",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olivia",
+                  "lastName": "Wilson",
+                  "middleName": "Ethan",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
